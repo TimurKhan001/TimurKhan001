@@ -1,6 +1,6 @@
 ### Timur Khananov — Senior Frontend Engineer
 
-I build React and TypeScript products: 7 years of commercial work across fintech, insurance and large enterprise platforms. Based in Austria (EU).
+I build React and TypeScript products: 7 years of commercial work across fintech, insurance and large enterprise platforms.
 
 Currently at **Blogic**, developing a real-time investment platform and its native iOS (Swift) and Android (Java) shell apps, including App Store and Google Play releases. Previously Tech Lead for a claims-reporting product at Colonnade Insurance.
 
